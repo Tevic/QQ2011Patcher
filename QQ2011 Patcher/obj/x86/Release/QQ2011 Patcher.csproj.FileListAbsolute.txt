@@ -1,0 +1,14 @@
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\bin\Release\QQ2011 Patcher.exe.config
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\bin\Release\QQ2011 Patcher.exe
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\bin\Release\QQ2011 Patcher.pdb
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\bin\Release\Microsoft.WindowsAPICodePack.pdb
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\obj\x86\Release\QQ2011_Patcher.MainForm.resources
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\obj\x86\Release\QQ2011_Patcher.Properties.Resources.resources
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\obj\x86\Release\QQ2011 Patcher.exe
+D:\Developer\Project\QQ2011 Patcher\QQ2011 Patcher\obj\x86\Release\QQ2011 Patcher.pdb
